@@ -4,7 +4,6 @@
 #  build.sh
 #  Volly
 #
-#  Created for Arena.ai on 2026-07-15.
 #  Automates compilation of Volly and packages it into a native .dmg file with a custom logo icon.
 #  Must be run on a macOS machine with Xcode or Xcode Command Line Tools installed.
 # ==============================================================================
