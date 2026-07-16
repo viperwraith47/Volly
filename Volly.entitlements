@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- We request standard mic access so that our Sandbox container allows audio operations if enabled -->
+    <key>com.apple.security.device.audio-input</key>
+    <true/>
+    
+    <!-- It is highly recommended to set App Sandbox to false for this low-level system utility. -->
+    <key>com.apple.security.app-sandbox</key>
+    <false/>
+</dict>
+</plist>
