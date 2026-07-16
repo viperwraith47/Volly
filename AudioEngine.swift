@@ -2,7 +2,6 @@
 //  AudioEngine.swift
 //  Volly
 //
-//  Created for Arena.ai on 2026-07-15.
 //  CoreAudio Process Taps-based Individual App Volume Controller & Audio Router for macOS 14.2+
 //
 
