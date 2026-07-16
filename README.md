@@ -4,6 +4,10 @@
   <img src="AppIcon.png" width="128" height="128" alt="Volly Logo" />
 </p>
 
+![macOS](https://img.shields.io/badge/macOS-14.0+-blue)
+![Swift](https://img.shields.io/badge/Swift-5.0-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 **Volly** is a native, lightweight, and modern macOS menu-bar utility that gives you the audio mixing controls Apple never built. With Volly, you can adjust the volume of individual applications (like Spotify, Safari, Google Chrome, YouTube, Discord, or Apple Music) independently, route specific apps to different playback devices (like AirPods or speakers) simultaneously, and boost quiet ones up to 200%.
 
 Built entirely in native **Swift** and **SwiftUI**, Volly runs purely in user-space using **Apple's modern CoreAudio Process Taps API** (macOS Sonoma 14.2+). **No kexts, no system extensions, and no virtual loopback audio drivers required.**
