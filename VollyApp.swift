@@ -2,7 +2,6 @@
 //  VollyApp.swift
 //  Volly
 //
-//  Created for Arena.ai on 2026-07-15.
 //  SwiftUI Main Application Entry Point - Installs Volly in the Menu Bar as a Window popup
 //
 
