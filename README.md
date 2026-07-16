@@ -123,4 +123,4 @@ On its first launch, Volly will prompt them for screen and system audio recordin
 ---
 
 ## 🤝 Credits
-Designed and Developed with ❤️ by [**viperwraith47**](https://github.com/viperwraith47).
+Designed and Developed with ❤️ by [**Tanush Kulkarni**](https://github.com/viperwraith47).
