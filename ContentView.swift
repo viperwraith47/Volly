@@ -2,7 +2,6 @@
 //  ContentView.swift
 //  Volly
 //
-//  Created for Arena.ai on 2026-07-15.
 //  Beautiful modern Glassmorphic UI with Inline Renaming, Output Routing, and Deletion/Ignore Lists
 //
 
